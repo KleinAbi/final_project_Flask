@@ -11,4 +11,3 @@ Task 5: Run Unit tests on your application
 Task 6: Web deployment of the application using Flask
 Task 7: Incorporate error handling
 Task 8: Run static code analysis
-There is a total of 16 points split between 8 tasks in the final project. Your final assignment will be graded by your peers who are also completing this assignment within the same session. You need to complete the following and submit your responses for peer review.
